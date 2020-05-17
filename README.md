@@ -4,6 +4,7 @@ Example Spring Boot application and CI/CD pipeline showing how to run a Java
 project on [Semaphore 2.0](https://semaphoreci.com).
 
 ## Application overview
+##SEM
 
 ### Features
 
